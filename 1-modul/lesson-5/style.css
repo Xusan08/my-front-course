@@ -28,11 +28,46 @@
   background-color: #F72D57;
   color: #fff;
 }
+/* main */
+
+.main {
+  width: 80%;
+  margin: 0 auto;
+}
+.page1 {
+  position: relative;
+  display: flex;
+}
+.header1 {
+  position: relative;
+  top: 150px;
+  width: 50%
+}
+.header2 {
+  position: relative;
+
+}
+.hedr2 {
+  position: relative;
+  bottom: 760px;
+  left: 120px;
+}
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+/* footer */
 footer {
   background-color: #F72D57;
   height: 100px;
@@ -44,13 +79,13 @@ footer {
 }
 .imgfooter {
   position: relative;
-  top: 14px;
+  top: 28px;
 }
 .ulfooter1,
 .ulfooter2,
 .ulfooter3 {
   position: relative;
-  left: 50%;
+  left: 53%;
   top: 22px;
   text-decoration: none;
   list-style-type: none;
