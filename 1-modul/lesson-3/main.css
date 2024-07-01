@@ -1,0 +1,294 @@
+.figmaContainer {
+      font-family: sans-serif;
+}
+.page11 {
+      width: 80%;
+      margin: 0 auto;
+}
+.page1 {
+      background-color: rgb(253, 241, 251);
+      height: 650px;
+}
+.header {
+      display: flex;
+}
+
+.navbar {
+      padding: 30px;
+      margin-left: 20%;
+}
+.navbar a {
+      padding: 15px;
+      text-decoration: none;
+      color: #555;
+}
+
+.btn1 {
+      margin-top: 21px;
+}
+.btn {
+      padding: 12px 35px;
+      border-radius: 7px;
+      background-color: rgb(233, 11, 96);
+      color: #fff;
+      border: none;
+}
+.main1 {
+      display: flex;
+}
+.reight {
+      position: relative;
+}
+.left {
+      width: 50%;
+      margin-top: 100px;
+}
+.ten {
+      width: 220px;
+      height: 220px;
+      background-color: rgb(246, 224, 243);
+      border-radius: 50%;
+      top: 200px;
+      left: 200px;
+      position: relative;
+}
+.pngimg {
+      position: relative;
+      bottom: 200px;
+      left: 135px;
+}
+.milk {
+      position: relative;
+      bottom: 480px;
+      left: 60px;
+}
+
+
+.page2 {
+      width: 80%;
+      margin: 100px auto;
+      display: flex;
+      position: relative;
+      text-align: center;
+}
+
+.element {
+      padding: 10px;
+}
+
+.page3 {
+      background-color: rgb(253, 241, 251);
+}
+.page33 {
+      display: flex;
+      width: 80%;
+      margin: 0 auto;
+}
+
+.foo {
+    width: 50%;
+    margin-top: 100px;
+    text-align: center;
+}
+.foo2 {
+      margin-top: 100px;
+
+}
+
+.bar {
+    position: relative;
+    right: -50px;
+}
+
+.ourproduct {
+   width: 80%;
+   margin: 0 auto;
+}
+
+.product {
+      text-align: center;
+      margin-top: 120px;
+}
+
+.allproduct {
+      margin-top: 50px;
+}
+.all {
+      text-decoration: none;
+      margin: 10px;
+      color: #555;
+}
+
+.product1 {
+      display: flex;
+      margin-top: 60px;
+}
+
+.reight1 {
+      position: relative;
+      left: 100px;
+      margin-top: 40px;
+}
+.left1 {
+      position: relative;
+      left: 20px
+}
+.product2 {
+      display: flex;
+      margin-top: 60px;
+}
+.left2 {
+      position: relative;
+      text-align: right;
+      left: -110px;
+      margin-top: 50px;
+}
+.reight2 {
+      position: relative;
+      left: -30px
+}
+.product3 {
+      display: flex;
+      margin-top: 60px;
+}
+.reight3 {
+      position: relative;
+      left: 130px;
+      margin-top: 70px;
+}
+.left3 {
+      position: relative;
+      left: 30px
+}
+.product4 {
+      display: flex;
+}
+.reight4{
+      position: relative;
+      left:50px;
+      margin-top: 100px;
+}
+.left4 {
+      display: flex;
+      margin-top: 170px
+}
+.left5 {
+      position: relative;
+      margin-top: 13px;
+      left: 30px
+}
+.reight5 {
+      position: relative;
+      left: 60px;
+}
+.bottom5 {
+      position: relative;
+      width: 60%;
+      text-align: center;
+      margin-top: 50px;
+      left: -100px;
+}
+.bottom6 {
+      display: flex;
+      position: relative;
+      margin-top: 40px;
+      left: -40px;
+}
+.back {
+      background-color: rgb(250, 238, 249);
+      height: 420px;
+      margin-top: 200px;
+}
+.tack {
+      display: flex;
+      width: 80%;
+      margin: 0 auto;
+}
+.leer {
+      position: relative;
+      left: 70px;
+      margin-top: 40px;
+      
+}
+.raer {
+      position: relative;
+      width: 45%;
+      left: 160px;
+      margin-top: 40px;
+}
+.store {
+      display: flex;
+      margin-top: 20px;
+}
+.app {
+      position: relative;
+      bottom: 17px;
+      left: -40px;
+}
+
+.back2 {
+      text-align: center;
+      margin-top: 130px;
+      height: 300px;
+}
+.back3 {
+      display: inline;
+      
+}
+.inp {
+      display: inline;
+      position: relative;
+      margin-top: 70px;
+}
+.batt {
+      display: inline;
+      position: relative;
+      left: -6px;
+      margin-top: 70px;
+}
+.footer {
+      background-color: black;
+      height: 400px;
+      font-family: sans-serif;
+      color: white;
+}
+.case {
+      display: flex;
+      position: relative;
+      width: 80%;
+      margin: 0 auto;
+}
+.div {
+      position: relative;
+      top: -10px
+}
+.case1 {
+      position: relative;
+      width: 25%;
+      margin-top: 60px;
+}
+.case2 {
+      margin-top: 110px;
+}
+.case2 ul li, a {
+      position: relative;
+      text-decoration: none;
+      color: white;
+      list-style-type: none;
+      padding: 5px;
+}
+.case3 {
+      margin-top: 110px;
+}
+.case3 ul li, a {
+      position: relative;
+      text-decoration: none;
+      list-style-type: none;
+      padding: 5px;
+}
+.case4 {
+      position: relative;
+      margin-top: 110px;
+      left: 50px;
+      width: 400px;
+}
